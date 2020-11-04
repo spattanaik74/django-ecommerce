@@ -1,1 +1,1 @@
-django-ecommerce
+ecommerce
